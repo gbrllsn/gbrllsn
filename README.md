@@ -26,7 +26,7 @@ I am currently working on expanding my practical skills and looking for internsh
 
 ### 📬 Let's Connect & Play:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-gabrielle-torres-b14274384/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torres.sean16412@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=torres.sean16412@gmail.com)
 [![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess&logoColor=white)](https://www.chess.com/member/0s9e2n)
 
 ---
