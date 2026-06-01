@@ -31,4 +31,5 @@ I am currently working on expanding my practical skills and looking for internsh
 
 ---
 
+### 🎧 Recently Played
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=82ecm6r9f2caipck08oafkiva)](https://open.spotify.com)
