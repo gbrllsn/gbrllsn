@@ -30,7 +30,4 @@ I am currently working on expanding my practical skills and looking for internsh
 
 ---
 
-### ✍️ My Latest Blog Posts / Updates
-*(The automation will list your recent articles or project updates right here once your GitHub Actions workflow runs)*
-
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=82ecm6r9f2caipck08oafkiva)](https://open.spotify.com)
