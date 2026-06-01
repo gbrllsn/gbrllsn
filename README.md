@@ -27,6 +27,7 @@ I am currently working on expanding my practical skills and looking for internsh
 ### 📬 Let's Connect:
 - 💼 **LinkedIn:** https://linkedin.com/in/sean-gabrielle-torres-b14274384/
 - 📧 **Email:** torres.sean16412@gmail.com
+- ♟️ **Play Chess with Me:** [![Chess](https://img.shields.io/badge/Chess.com-000000?style=flat&logo=chess&logoColor=769656)](https://www.chess.com/member/0s9e2n)
 
 ---
 
