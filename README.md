@@ -1,13 +1,18 @@
 # Hi there, I'm Sean Gabrielle Torres! 👋
 
-I am a 3rd-year **Information Technology student** and **aspiring VA Data Analyst**. I specialize in **database management, ETL pipeline development, data warehousing (Medallion Architecture & Star Schema), and operational business reporting**.
+I am a 3rd-year **Information Technology student**. I specialize in **database management, and operational business reporting**.
 
 I have practical experience in **AI data evaluation & QA (Outlier.ai)**, advanced data cleaning, and building automated KPI tracking and financial models using **SQL (MySQL)** and **MS Excel**.
 
 ---
 
-### 📂 Portfolio & Projects
-🔗 **GitHub Portfolio:** [github.com/gbrllsn](https://github.com/gbrllsn)
+### 🌐 Portfolio & Key Links
+* 🚀 **Live Portfolio Website:** [my-portfolio-one-flame-28.vercel.app](https://my-portfolio-one-flame-28.vercel.app/)
+* 💻 **GitHub Profile:** [github.com/gbrllsn](https://github.com/gbrllsn)
+
+---
+
+### 📂 Featured Analytics Projects
 
 * **E-Commerce Data Warehouse & ETL Pipeline** *(MySQL, phpMyAdmin)*  
   Architected a Medallion Architecture data warehouse to sanitize raw transactional data and optimized a Star Schema for high-speed SQL reporting.
@@ -33,13 +38,15 @@ I have practical experience in **AI data evaluation & QA (Outlier.ai)**, advance
 - **Data Warehousing & ETL Pipelines:** Designing multi-tiered schemas (Bronze, Silver, Gold layers) and writing optimized SQL queries for business reporting.
 - **Excel Business Intelligence:** Creating dynamic KPI dashboards, automated financial models, and inventory tracking systems for remote teams.
 - **AI Data Quality Assurance:** Leveraging my experience from Outlier.ai to perform data annotation, model output evaluation, and technical fact-checking.
+- **Cybersecurity Fundamentals:** Completing a CISCO beginner cybersecurity course to build core knowledge in network security, data protection, and threat mitigation best practices.
 
 ---
 
-### 📬 Let's Connect & Play:
+### 📬 Let's Connect:
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-one-flame-28.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-gabrielle-torres-b14274384/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=torres.sean16412@gmail.com)
-[![GitHub Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbrllsn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbrllsn)
 [![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess&logoColor=white)](https://www.chess.com/member/0s9e2n)
 
 ---
