@@ -26,7 +26,7 @@
 ### About
 
 - Currently studying **Bachelor of Science in Information Technology** at the **University of Science and Technology of Southern Philippines**.
-- Actively working with **Python, JavaScript, PHP, and SQL**.
+- Actively working with **Python, JavaScript, and SQL**.
 - Passionate about **data engineering, database management, and operational systems**.
 - Expanding my skill set into **Cybersecurity fundamentals & network protection**.
 
