@@ -23,47 +23,42 @@
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-- 🎓 Currently studying **Bachelor of Science in Information Technology** at the **University of Science and Technology of Southern Philippines**.
-- 💻 Actively working with **Python, JavaScript, PHP, and SQL**.
-- 📊 Passionate about **data engineering, database management, and operational systems**.
-- 🛡️ Expanding my skill set into **Cybersecurity fundamentals & network protection**.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-
-**Languages & Frameworks**  
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-
-<br/><br/>
-
-**Databases & Analytics**  
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6D97C2?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-
-<br/><br/>
-
-**Tools & Design**  
-<br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
-
-</div>
+- Currently studying **Bachelor of Science in Information Technology** at the **University of Science and Technology of Southern Philippines**.
+- Actively working with **Python, JavaScript, PHP, and SQL**.
+- Passionate about **data engineering, database management, and operational systems**.
+- Expanding my skill set into **Cybersecurity fundamentals & network protection**.
 
 ---
 
-### 📂 Featured Projects
+### Tech Stack
+
+<p align="left">
+  <b>Languages & Frameworks:</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Databases & Analytics:</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6D97C2?style=flat-square&logo=phpmyadmin&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Tools & Design:</b><br/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
+</p>
+
+---
+
+### Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -72,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrllsn&theme=dark&bg_color=0d1117&hide_border=true&currStreakNum=D4AF37" alt="GitHub Streak" />
@@ -86,4 +81,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect.</i></p>
