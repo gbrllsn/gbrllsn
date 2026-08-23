@@ -41,20 +41,20 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gbrllsn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllsn&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gbrllsn&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllsn&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrllsn&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrllsn&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gbrllsn&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gbrllsn&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrllsn&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrllsn&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -63,16 +63,16 @@
 
 <p align="left">
   <a href="https://github.com/gbrllsn/E-Commerce-Data-Warehouse-ETL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbrllsn&repo=E-Commerce-Data-Warehouse-ETL&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbrllsn&repo=E-Commerce-Data-Warehouse-ETL&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/gbrllsn/Pampeers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbrllsn&repo=Pampeers&theme=default&hide_border=true" />
+  <a href="https://github.com/gbrllsn/backendPampeers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbrllsn&repo=backendPampeers&theme=dark&hide_border=true" />
   </a>
 </p>
 
 **E-Commerce Data Warehouse: Medallion Architecture & Star Schema** — an end-to-end analytical data warehouse for an online store built with MySQL, implementing a Bronze/Silver/Gold Medallion architecture and a Star Schema (fact + dimension tables) to turn raw transactional data into a query-optimized reporting model.
 
-**Pampeers** — a pet-sitting marketplace web application built with PHP, ,phpMyAdmin, MySQL, and session-based authentication. Features role-based access for users, sitters, and admins, along with booking management, in-app messaging, and payment tracking.
+**Pampeers** — a pet-sitting marketplace web application built with PHP, MySQL, and session-based authentication. Features role-based access for users, sitters, and admins, along with booking management, in-app messaging, and payment tracking.
 
 ---
 
