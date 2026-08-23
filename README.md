@@ -1,85 +1,73 @@
 <div align="center">
 
-  <h1>⚡ Sean Gabrielle Torres</h1>
-  <p><b>IT Student | Data & Analytics Specialist | AI Quality Evaluator</b></p>
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=SEAN%20GABRIELLE%20TORRES&fontSize=42&fontColor=F0E68C&animation=fadeIn&fontAlignY=38&desc=Data%20Specialist%20%E2%80%A2%20ETL%20Architect%20%E2%80%A2%20AI%20QA%20Evaluator&descAlignY=62&descSize=16" width="100%" alt="Header Banner" />
+
+  <p><b>「 💡 データから真実を導き出し、効率的な未来を築く 」</b><br/>
+  <i>(Deriving truth from data, building an efficient future)</i></p>
 
   <p>
-    <a href="https://my-portfolio-one-flame-28.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/sean-gabrielle-torres-b14274384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/gbrllsn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=torres.sean16412@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.chess.com/member/0s9e2n"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess&logoColor=white" alt="Chess" /></a>
+    <code>‹ Data Specialist /›</code> &nbsp; <code>‹ ETL & Warehousing /›</code> &nbsp; <code>‹ Philippines 🇵🇭 /›</code>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Warehousing+%26+ETL+Pipelines;Database+Management+%26+SQL;Operational+Business+Reporting;AI+Data+Evaluation+%26+QA" alt="Typing SVG" />
+  <p><i>"Transforming chaotic raw records into high-impact operational intelligence."</i></p>
 
-</div>
+  <br/>
 
-<br/>
-
-### 👨‍💻 About Me
-
-I am a **3rd-year Information Technology student** focused on transforming raw, chaotic data into clear operational insights. 
-
-* 📊 **Core Focus:** Database management, Medallion Architecture, and dynamic operational reporting.
-* 🤖 **Industry Experience:** Practical expertise in AI Data Evaluation & QA with **Outlier.ai**, performing rigorous data annotation and model output assessment.
-* 🛡️ **Current Goal:** Strengthening foundational network security, threat mitigation, and data protection through Cisco certifications.
-
----
-
-### 📂 Featured Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **E-Commerce Data Warehouse & ETL Pipeline** | `MySQL` `phpMyAdmin` | Designed a Medallion Architecture data warehouse to sanitize raw transactional data; optimized a Star Schema for high-performance SQL reporting. |
-| **Technician Performance & KPI Tracker** | `MS Excel` | Developed an automated operations dashboard tracking closing rates, revenue collection, and dynamic incentive structures. |
-| **Financial TCO & Inventory Tracker** | `MS Excel` | Formulated a multi-variable financial comparison model and automated restock alert system using logical formulas. |
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<div align="left">
-
-**Languages & Databases**
-<br/>
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-
-<br/>
-
-**Data Tools & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <!-- METRICS & VIEWS COUNTER -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=gbrllsn&label=PROFILE+VIEWS&color=D4AF37&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/gbrllsn?label=FOLLOWERS&style=flat-square&color=21262d" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/gbrllsn?label=STARS&style=flat-square&color=21262d" alt="Stars" />
+  </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### ✦ Tech Arsenal
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=gbrllsn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sean's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllsn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+**Languages & Core Analytics**
+<br/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=F0E68C" />
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/EXCEL_BI-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+
+<br/><br/>
+
+**Database Management & Engineering**
+<br/>
+<img src="https://img.shields.io/badge/MEDALLION_ETL-000000?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/PHPMYADMIN-000000?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" />
+
+<br/><br/>
+
+**Tools & Workflows**
+<br/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/OUTLIER_AI_QA-000000?style=for-the-badge&logo=openai&logoColor=10a37f" />
+
 </div>
 
 ---
 
-### 🎧 Currently Grooving To
+### ✦ Featured Analytics Systems
 
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=82ecm6r9f2caipck08oafkiva" alt="Spotify Recently Played" />
-  </a>
-</div>
+```yaml
+01. E-Commerce Data Warehouse & ETL Pipeline
+    - Architecture: Medallion Architecture (Bronze -> Silver -> Gold Layers)
+    - Stack: MySQL, phpMyAdmin, SQL Queries
+    - Description: Sanitized raw transactional data and deployed optimized Star Schemas for fast reporting.
 
-<br/>
+02. Technician Performance & KPI Tracking System
+    - Tech: MS Excel (VBA / Advanced Formulas)
+    - Focus: Automated operations tracking for closing rates, revenue collection, and dynamic bonuses.
 
-<div align="center">
-  <sub>Designed with precision by Sean Gabrielle Torres 🚀</sub>
-</div>
+03. Financial TCO & Automated Inventory Model
+    - Tech: MS Excel / Financial Modeling
+    - Focus: Multi-variable financial comparisons with real-time stock alert thresholds.
