@@ -75,20 +75,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gbrllsn&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrllsn&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=D4AF37&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrllsn&theme=dark&bg_color=0d1117&hide_border=true&currStreakNum=D4AF37" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.org/s/gbrllsn" width="100%" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrllsn&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </div>
 
 ---
