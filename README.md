@@ -8,6 +8,9 @@
   </p>
 
   <p>
+    <a href="https://my-portfolio-one-flame-28.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/seangabt" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -26,9 +29,10 @@
 ### About
 
 - Currently studying **Bachelor of Science in Information Technology** at the **University of Science and Technology of Southern Philippines**.
-- Actively working with **Python, JavaScript, and SQL**.
+- Actively working with **Python, JavaScript, PHP, and SQL**.
 - Passionate about **data engineering, database management, and operational systems**.
 - Expanding my skill set into **Cybersecurity fundamentals & network protection**.
+- Check out my live work and projects at [my-portfolio-one-flame-28.vercel.app](https://my-portfolio-one-flame-28.vercel.app/).
 
 ---
 
@@ -67,18 +71,24 @@
 
 ---
 
-### GitHub Analytics
+### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrllsn&theme=dark&bg_color=0d1117&hide_border=true&currStreakNum=D4AF37" alt="GitHub Streak" />
-</div>
 
-<br/>
+  <p>
+    <img src="https://img.shields.io/github/followers/gbrllsn?style=flat-square&label=Followers&color=0d1117&logo=github" />
+    <img src="https://img.shields.io/github/stars/gbrllsn?style=flat-square&label=Repository%20Stars&color=0d1117&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=gbrllsn&label=Profile%20Views&color=0d1117&style=flat-square" />
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrllsn&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+  <p>
+    <a href="https://github.com/gbrllsn">
+      <img src="https://ghchart.rshah.org/0d1117/gbrllsn" alt="Sean's Github Chart" width="100%" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect.</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos or visit my <a href="https://my-portfolio-one-flame-28.vercel.app/">portfolio</a>!</i></p>
