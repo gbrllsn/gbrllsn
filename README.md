@@ -9,7 +9,7 @@ Information Technology student building toward data engineering and cybersecurit
 ## Currently
 
 - Studying **BS Information Technology** at the University of Science and Technology of Southern Philippines
-- Focusing on **JavaScript, TypeScript, and Python**
+- Focusing on **JavaScript, TypeScript,** and **Python**
 - Reading into **cybersecurity fundamentals** and network protection
 - Thinking in terms of **data engineering** — pipelines, schemas, and the systems that move information reliably
 
@@ -30,7 +30,5 @@ Information Technology student building toward data engineering and cybersecurit
 | Film / Music | [Letterboxd](https://letterboxd.com/gbrllsn/) · [Spotify](https://open.spotify.com/user/82ecm6r9f2caipck08oafkiva?si=18332cbe664f4fae) |
 
 ---
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=gbrllsn&show_icons=true&hide_border=true&theme=transparent&icons_only=false" />
 
 <sub>Thanks for stopping by.</sub>
