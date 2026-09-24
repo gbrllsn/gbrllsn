@@ -16,8 +16,7 @@
 
 - Currently studying **Bachelor of Science in Information Technology** at the **University of Science and Technology of Southern Philippines**
 - Actively studying **JavaScript, TypeScript, and Python**
-- Passionate about **data engineering, database management, and operational systems**
-- Expanding my skill set into **Cybersecurity fundamentals & network protection**
+- Passionate about **cybersecurity, data engineering, database management, and operational systems**
 
 <br/>
 
@@ -60,8 +59,63 @@
 <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=51574F" />
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=51574F" />
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[E-Commerce Data Warehouse](https://github.com/gbrllsn/E-Commerce-Data-Warehouse-ETL)**
+
+End-to-end analytical data warehouse implementing a Medallion Architecture (Bronze/Silver/Gold) and Star Schema to transform raw transactional data into optimized reporting models.
+
+`MySQL` `ETL` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+**[Pampeers](https://github.com/gbrllsn/Pampeers)**
+
+Pet-sitting marketplace web application featuring role-based authentication (Users, Sitters, Admins), booking management, in-app messaging, and payment tracking.
+
+`PHP` `MySQL` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### Elsewhere
 
+<p align="center">
+  <a href="https://www.fiverr.com/users/sean44329/seller_dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-0d1117?style=for-the-badge&logo=fiverr&logoColor=51574F" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~014abe183506c14577?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=51574F" />
+  </a>
+  <a href="https://v2.onlinejobs.ph/jobseekers/info/4641904" target="_blank">
+    <img src="https://img.shields.io/badge/OnlineJobs.ph-0d1117?style=for-the-badge&logoColor=51574F" />
+  </a>
+  <a href="https://ph.jobstreet.com/profiles/sean-torres-GXLLM7qrPs" target="_blank">
+    <img src="https://img.shields.io/badge/JobStreet-0d1117?style=for-the-badge&logoColor=51574F" />
+  </a>
+  <a href="https://api.bossjob.com/jobseekers/resume/view/6806883/fc372d882c5f5545/Resume%20-%20Sean%20Gabrielle%20Torres.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readdotcv&logoColor=51574F" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lichess.org/@/gbrllsn" target="_blank">
+    <img src="https://img.shields.io/badge/Lichess-0d1117?style=for-the-badge&logo=lichess&logoColor=51574F" />
+  </a>
   <a href="https://www.chess.com/member/0s9e2n" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-0d1117?style=for-the-badge&logo=chessdotcom&logoColor=51574F" />
   </a>
